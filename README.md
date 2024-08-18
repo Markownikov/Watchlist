@@ -1,5 +1,5 @@
 # Live Link
-<a href="https://movie-watchlist09.netlify.app">Live Link</a>
+<a href="https://watchlist-green.vercel.app/">Live Link</a>
 
 # Project Title
 Authenticate frontend developer Assignment - Movie Watchlist App
